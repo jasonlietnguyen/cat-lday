@@ -6,10 +6,10 @@ function petCat() {
   counter++
   petCount.innerHTML = counter
   if(counter > 4){
-     catStats.innerHTML = "rawwwwwwww :|"
+     catStats.innerHTML = "rawwwwwwww"
   }
   if (counter == 9) {
-     catStats.innerHTML = "hssssss :("
+     catStats.innerHTML = "hsssssssss"
   }
   if (counter == 10) {
      catButton.disabled = true
